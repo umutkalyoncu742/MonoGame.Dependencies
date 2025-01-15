@@ -8,3 +8,4 @@ This is where we store binary dependencies for the [MonoGame](https://github.com
 - Ensure that you include the version and origin information.
 - If required include the license text.
 https://github.com/umutkalyoncu742/MonoGame.Dependencies.git
+https://github.com/umutkalyoncu742/MonoGame.Dependencies.git
